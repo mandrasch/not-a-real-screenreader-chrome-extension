@@ -1,0 +1,19 @@
+{
+    "name": "Not a real screenreader",
+    "action": {},
+    "description": "Simple example of javascript screenreader to demonstrate accessibility problems in an easy way.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "web_accessible_resources": [{
+            "resources": ["iframe.html"],
+            "matches":["<all_urls>"]
+        }
+    ]
+}
