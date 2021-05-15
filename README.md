@@ -1,6 +1,12 @@
 # Not a real screenreader
 
-Experimental chrome extension, this is a fork of another experiment:
+Experimental chrome extension.
+
+Demo video:
+
+- https://www.youtube.com/watch?v=iFve_XIIZp8
+
+This is a fork of another experiment:
 
 - https://github.com/Comandeer/sr-poc
 - Blog post about it: https://medium.com/content-uneditable/lets-create-a-screen-reader-6734fe45aa3d
