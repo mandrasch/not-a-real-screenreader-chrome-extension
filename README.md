@@ -1,4 +1,14 @@
-# Not a real screenreader
+# NEW VERSION
+
+See:
+
+https://github.com/mandrasch/not-a-real-screenreader-pptr
+
+for a new version with puppeteer.
+
+<hr>
+
+# Old experiment: Not a real screenreader (chrome extension)
 
 Experimental chrome extension.
 
